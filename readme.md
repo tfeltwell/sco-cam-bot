@@ -1,3 +1,3 @@
 * Scouse David Cameron bot
 
-Created Novembe 2015, Tom Feltwell @ LiSC, Lincoln, UK.
+Created November 2015, Tom Feltwell @ LiSC, Lincoln, UK.
