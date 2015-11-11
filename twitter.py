@@ -28,10 +28,11 @@ def tweet(tweet):
 	return data
 
 #Get timeline
-tweets = getTimeline()
-for i, tweet in enumerate(tweets):
-    print i
+# tweets = getTimeline()
+# for i, tweet in enumerate(tweets):
+#     print i
 
 # Post a tweet
-errors = tweet("Hello world!")
+errors = tweet("Hello world")
+print errors
 
